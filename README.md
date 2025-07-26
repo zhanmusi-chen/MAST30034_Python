@@ -1,6 +1,6 @@
 # Welcome to the MAST30034 Tutorial Code Repo
-- Author: [Akira Takihara Wang](https://github.com/VoLKyyyOG) and [Liam Hodgkinson](http://www.liamhodgkinson.com)
-- Tutorial and Tools Up-to-Date as of: 2024 July
+- Author: [Akira Takihara Wang](https://github.com/VoLKyyyOG) and [Liam Hodgkinson](http://www.liamhodgkinson.com) and and [Mingming Gong](https://mingming-gong.github.io/)
+- Tutorial and Tools Up-to-Date as of: 2025 July
 
 Jupyter notebooks can be found in the tutorials folder. Ensure that you have installed either [Visual Studio Code](https://code.visualstudio.com/) with the Jupyter extension, or [JupyterLab](https://jupyterlab.readthedocs.io/) to run the notebooks.
 
